@@ -9,7 +9,7 @@ My first website created using Bootstrap.
       Images are directly extracted from the Pixabay website
     </li>
     <li>
-      This includes the HTML & CSS components extracted from the Bootstrap
+      This includes the HTML, CSS & JAVASCRIPT  components extracted from the Bootstrap
     </li>
   </ul>
 </p>
